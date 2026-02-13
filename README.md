@@ -3,10 +3,10 @@
 [das.sunandan15@gmail.com](mailto:das.sunandan15@gmail.com) | +91 9903884791 | Kolkata  
 
 ## Professional Summary
-Computer Science graduate with extensive AI annotation (Sahara AI, 50+ hrs/week), UHRS evaluation, tutoring, Web3 moderation, and Python trading bot experience. Available immediately for remote data/AI/freelance work.
+Computer Science graduate with extensive AI annotation & evaluation experience (Sahara AI, 50+ hrs/week), UHRS evaluation, tutoring, Web3 moderation, and Python trading bot experience. Available immediately for remote data/AI/freelance work.
 
 ## Experience
-**AI Annotator - Sahara AI** (2025–Present)  
+**AI Annotator & Evaluator - Sahara AI** (2025–Present)  
 - 50+ hours weekly AI training through precise data annotation tasks  
 - High accuracy in complex labeling and quality standards  
 
@@ -23,7 +23,7 @@ Computer Science graduate with extensive AI annotation (Sahara AI, 50+ hrs/week)
 
 ## Education
 **B.E. Computer Science**  
-[University Name], [Year]
+[WBUT], [2011]
 
 ## Skills
 - Python (API trading bots), Data annotation, Quality assurance  
